@@ -317,7 +317,7 @@ const projects = [
 
         technologies: ["HTML", "CSS", "JavaScript"],
 
-        demo: "",
+        demo: "https://ajaya-patra-dev.github.io/My-Portfolio/",
         github: "",
 
         status: "Portfolio website"
@@ -339,7 +339,7 @@ const projects = [
     {
         title: "E-commerce Website",
         description:
-            "A front-end shopping website concept featuring product cards, a responsive layout, and shopping interface elements."
+            "A front-end shopping website concept featuring product cards, a responsive layout, and shopping interface elements.",
 
         technologies: ["HTML", "CSS", "JavaScript"],
 
