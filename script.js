@@ -318,7 +318,7 @@ const projects = [
         technologies: ["HTML", "CSS", "JavaScript"],
 
         demo: "https://ajaya-patra-dev.github.io/My-Portfolio/",
-        github: "",
+        github: "https://github.com/ajaya-patra-dev/My-Portfolio",
 
         status: "Portfolio website"
     },
